@@ -1,6 +1,5 @@
 # Angel.co-Scraper
 An attempt to scrape angel.co<br>
-This was a task given under an internship selection process<br>
 Angel.co has very strict policy on web crawling robots which made web<br>
 scraping a really challenging task<br>
 it has an impressive backend weblog analysis server which blocks the ip within 7-8 pages of consecutive page requests patterns<br>
